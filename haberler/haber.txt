@@ -1,0 +1,7 @@
+<!--<article>
+        <h3>Haberler</h3>
+        <hr />
+        <p>Bango Dijital Haber Servisi kuruldu
+        Bango Magazin insanların haberleri doğru bir kaynaktan almaları için kurulan bir web sitesidir</p>
+        <p class="date">8/04/2021</p>
+      </article> -->

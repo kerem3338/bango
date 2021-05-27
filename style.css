@@ -1,0 +1,48 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,400i,700);
+
+
+body {
+  margin: 0;
+  padding: 0;
+  background: rgb(255, 255, 255);
+	font-family: ubuntu;
+}
+
+/*header {
+  display: flex;
+  align-items: center;
+  background: #e7e7ff;
+}*/
+.kutu{width: 520px;
+      height:200px;
+      border: 5px solid #000;
+      background-color:#ffd000;
+}
+.bilgi_kutusu{width: 100;
+             height: 100;
+             border: 5px solid #000;
+            background-color:#ff9100;
+}
+
+header img {
+  width: 50px;
+  background: rgb(135, 206, 77);
+  border-radius: 5px;
+  margin: 0 20px 0 40px;
+}
+
+yan {
+  float:left; margin-left:20px;
+}
+article {
+  background: white;
+  border: 4px solid #a0a0a0;
+  width: 90%;
+  margin: 20px auto;
+  border-radius: 0px;
+  padding: 10px;
+}
+
+hr, article .date {
+  color: #a0a0a0;
+}
